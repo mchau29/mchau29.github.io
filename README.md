@@ -4,8 +4,8 @@
 
 
 ## Education       		
-- M.S. in Experimental Psychology	| _Nova Southeastern University, FL (2023)_	 			        		
-- B.A. in Psychology | _San Diego State University, CA (2018)_
+| M.S. in Experimental Psychology	| _Nova Southeastern University, FL (2023)_	| 			        		
+| B.A. in Psychology | _San Diego State University, CA (2018)_ |
 
 
 ## Specialization & Professional Certificates       	
