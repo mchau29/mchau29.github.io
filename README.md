@@ -4,15 +4,15 @@
 
 
 ## Education       		
-- M.S. in Experimental Psychology	| _Nova Southeastern University, FL (2023)_		        		
-- B.A. in Psychology              | _San Diego State University, CA (2018)_ 
+- M.S. in Experimental Psychology| _Nova Southeastern University, FL (2023)_		        		
+- B.A. in Psychology| _San Diego State University, CA (2018)_ 
 
 
 ## Specialization & Professional Certificates       	
-- Machine Learning Professional Certificate, _IBM (in-progress)_
-- Data Science Fundamentals with Python and SQL Specialization, _IBM (2023)_
-- HavardX's Data Science Professional Certificate, _edX (2023)_
-- Google Data Analytics Specialization, _Google (2023)_
+- Machine Learning Professional Certificate| _IBM (in-progress)_
+- Data Science Fundamentals with Python and SQL Specialization| _IBM (2023)_
+- HavardX's Data Science Professional Certificate| _edX (2023)_
+- Google Data Analytics Specialization| _Google (2023)_
 
 
 ## Work Experience
