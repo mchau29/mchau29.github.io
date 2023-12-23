@@ -2,9 +2,11 @@
 
 #### Technical Skills: Python, SQL, R
 
+
 ## Education       		
 - M.S. in Experimental Psychology	| _Nova Southeastern University, FL_ (2023)	 			        		
 - B.A. in Psychology | _San Diego State University, CA_ (2018)
+
 
 ## Specialization & Professional Certificates       	
 - Machine Learning Professional Certificate, _IBM_ (in-progress)
@@ -12,16 +14,15 @@
 - HavardX's Data Science Professional Certificate, _edX_ (2023)
 - Google Data Analytics Specialization, _Google_ (2023) 
 
+
 ## Work Experience
 **Project Manager @ Intervent Clinical Research Center, FL (current)**
 - Used Python programming language to build profit forecasting models for 2 healthcare projects. 
 - Supervised the data collection progress and research conducts of 4 clinical trials. 
 
 **Graduate Research Assistant, Nova Southeastern University, FL (2021 - 2023)**
-- Used R-programming language to perform statistical analyses for two clinical studies.
-  1. Revactin supplement and its effects on Men Sexual Health and Wellbeing, MD Associates (2023)
-  2. Melatonin spray (.5mg) on nighttime awakening and sleep quality evaluation, Nature Bounty (2022)
-
+- Used R-programming language to perform statistical analyses & data visualization for two clinical studies.
+- Led a team of undergraduate students to conduct the data collection process.
 
 
 ## Projects
@@ -38,6 +39,14 @@ description 1.
 description 2. 
 
 ![picture 2](/assets/img/eeg_band_discovery.jpeg)
+
+## Clinical Trials
+1. Melatonin spray (.5mg) on nighttime awakening and sleep quality evaluation, _Nature Bounty (2022)_
+2. Revactin supplement and its effects on Men Sexual Health and Wellbeing, _MD Associates (2023)_
+3. A phase III, 52-week, multinational, multicenter, randomized, double-blind, 2-arm parallel group study comparing efficacy, safety and tolerability of the fixed dose triple combination of beclomethasone dipropionate plus formoterol fumarate plus glycopyrronium bromide (CHF 5993) with the fixed dose dual combination of beclomethasone dipropionate plus formoterol fumarate (CHF 1535), both administered via pMDI in subjects with chronic obstructive pulmonary disease (COPD), _Chiesi Farmaceutici S.p.A. (2023)_
+4. A 52-week, randomized, double-blind, double-dummy, placebo- and active- controlled (Roflumilast, Daliresp® 500μg), parallel group, study to evaluate the efficacy and safety of two doses of CHF6001 DPI add-on to maintenance triple therapy in subjects with Chronic Obstructive Pulmonary Disease (COPD) and chronic bronchitis, _Chiesi Farmaceutici S.p.A. (2023)_
+5. Roche Cancer Screening Collection Study, _Roche Molecular Systems, Inc. (2023)_
+
 
 ## Publications
 1. Thompson, K. I., Chau, M., Lorenzetti, M. S., Hill, L. D., Fins, A. I., & Tartar, J. L. (2022). Acute sleep deprivation disrupts emotion, cognition, inflammation, and cortisol in young healthy adults. Frontiers in behavioral neuroscience, 16, 945661. https://doi.org/10.3389/fnbeh.2022.945661
