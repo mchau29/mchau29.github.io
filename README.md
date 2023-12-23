@@ -4,23 +4,23 @@
 
 
 ## Education       		
-- M.S. in Experimental Psychology	| _Nova Southeastern University, FL_ (2023)	 			        		
-- B.A. in Psychology | _San Diego State University, CA_ (2018)
+- M.S. in Experimental Psychology	| _Nova Southeastern University, FL (2023)_	 			        		
+- B.A. in Psychology | _San Diego State University, CA (2018)_
 
 
 ## Specialization & Professional Certificates       	
-- Machine Learning Professional Certificate, _IBM_ (in-progress)
-- Data Science Fundamentals with Python and SQL Specialization, _IBM_ (2023)
-- HavardX's Data Science Professional Certificate, _edX_ (2023)
-- Google Data Analytics Specialization, _Google_ (2023) 
+- Machine Learning Professional Certificate, _IBM (in-progress)_
+- Data Science Fundamentals with Python and SQL Specialization, _IBM (2023)_
+- HavardX's Data Science Professional Certificate, _edX (2023)_
+- Google Data Analytics Specialization, _Google (2023)_
 
 
 ## Work Experience
-**Project Manager @ Intervent Clinical Research Center, FL (current)**
+**Project Manager, _Intervent Clinical Research Center, FL (current)_**
 - Used Python programming language to build profit forecasting models for 2 healthcare projects. 
 - Supervised the data collection progress and research conducts of 4 clinical trials. 
 
-**Graduate Research Assistant, Nova Southeastern University, FL (2021 - 2023)**
+**Graduate Research Assistant, _Nova Southeastern University, FL (2021 - 2023)_**
 - Used R-programming language to perform statistical analyses & data visualization for two clinical studies.
 - Led a team of undergraduate students to conduct the data collection process.
 
