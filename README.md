@@ -16,13 +16,19 @@
 
 
 ## Work Experience
-**Project Manager, _Intervent Clinical Research Center, FL (current)_**
-- Used Python programming language to build profit forecasting models for 2 healthcare projects. 
+**Project Manager, _Intervent Clinical Research Center, FL (2023 - current)_**
+- Used Python programming language to build profit forecasting models for two healthcare projects.
+- Estimate the current states of chronic illnesses in the Miami-Ft Lauderdale area using data query and mining techniques.  
 - Supervised the data collection progress and research conducts of 4 clinical trials. 
 
 **Graduate Research Assistant, _Nova Southeastern University, FL (2021 - 2023)_**
 - Used R-programming language to perform statistical analyses & data visualization for two clinical studies.
+- Co-author in two published papers in the field of (1) Behavioral Neuroscience and (2) Exercise & Nutrition journals.  
 - Led a team of undergraduate students to conduct the data collection process.
+
+**Recovery Specialist, _South Florida State Hospital, FL (2018 - 2021)_**
+- Identify behavioral pattern to understand the disease progression in 60 patients with schizophrenia.
+- Detect cognitive anomaly in 40 patients with mood disorders and adjust therapeutic approaches if necessary. 
 
 
 ## Projects
@@ -39,6 +45,7 @@ description 1.
 description 2. 
 
 ![picture 2](/assets/img/eeg_band_discovery.jpeg)
+
 
 ## Clinical Trials
 1. Melatonin spray (.5mg) on nighttime awakening and sleep quality evaluation, _Nature Bounty (2022)_
