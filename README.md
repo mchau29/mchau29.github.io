@@ -1,5 +1,4 @@
 # Project Manager, Aspiring Data Scientist
-My online portfolio: this is a snapshot of my works and experience. 
 #### Technical Skills: Python, SQL, R
 
 
