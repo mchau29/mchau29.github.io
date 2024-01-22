@@ -35,17 +35,11 @@
 ![image](https://github.com/mchau29/mchau29.github.io/assets/113917229/916046e7-ad4f-4255-8d62-6e89d587c2ef)
 [View the Jupyter Notebook here](https://github.com/mchau29/world-happiness/blob/main/world%20happiness.ipynb)
 
-What makes a happy country? Is it the country's economy, politics, or its people? Using data from the WInternational Database (IDB) by United States Census Bureau and World Happiness Report Dataset by the World Happiness Report (WHR) organization, I will address this question by identifying factors that are indicative of citizen happiness. \
+What makes a happy country? Is it the country's economy, politics, or its people? Using data from the WInternational Database (IDB) by United States Census Bureau and World Happiness Report Dataset by the World Happiness Report (WHR) organization, I constructed a Multiple Linear Regression model using 13 predictors to predict happiness. My model explains 84.86% of variance in happiness, F(13,129) = 62.222, p < .05, r-squared = .849. \
+According to this model, people is likely to report feeling happier when (1) their country is doing well financially, (2) their health, freedom, and social support are well-taken care of, and (3) when the population is younger and, unexpectedly, higher death rate. Due to a lack of an experimental control, causation cannot be inferred yet. It is recommended for future Studies to explore the relationships between these variables so policies can be made to further boost people happiness. \
 **Tags.** Python, Data Analysis, Multiple Regression Linear Model. 
 
 ![picture 1](/assets/img/eeg_band_discovery.jpeg)
-
-### project 2.
-[link 2](https://www.mdpi.com/1424-8220/22/8/3048)
-
-description 2. 
-
-![picture 2](/assets/img/eeg_band_discovery.jpeg)
 
 
 ## Clinical Trials
