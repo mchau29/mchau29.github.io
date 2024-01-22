@@ -35,7 +35,7 @@
 ![image](https://github.com/mchau29/mchau29.github.io/assets/113917229/916046e7-ad4f-4255-8d62-6e89d587c2ef)
 [View the Jupyter Notebook here](https://github.com/mchau29/world-happiness/blob/main/world%20happiness.ipynb)
 
-What makes a happy country? Is it the country's economy, politics, or its people? Using data from the WInternational Database (IDB) by United States Census Bureau and World Happiness Report Dataset by the World Happiness Report (WHR) organization, I will address this question by identifying factors that are indicative of citizen happiness.
+What makes a happy country? Is it the country's economy, politics, or its people? Using data from the WInternational Database (IDB) by United States Census Bureau and World Happiness Report Dataset by the World Happiness Report (WHR) organization, I will address this question by identifying factors that are indicative of citizen happiness. \
 **Tags.** Python, Data Analysis, Multiple Regression Linear Model. 
 
 ![picture 1](/assets/img/eeg_band_discovery.jpeg)
