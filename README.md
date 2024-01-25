@@ -33,7 +33,8 @@
 ## Projects
 ### World Happiness (2024).
 ![image](https://github.com/mchau29/mchau29.github.io/assets/113917229/916046e7-ad4f-4255-8d62-6e89d587c2ef)
-[View the Jupyter Notebook here](https://github.com/mchau29/world-happiness/blob/main/world%20happiness.ipynb)
+[Jupyter Notebook](https://github.com/mchau29/world-happiness/blob/main/world%20happiness.ipynb)
+[Rendered HTML Page](https://htmlpreview.github.io/?https://github.com/mchau29/world-happiness/blob/main/world%20happiness%20html.html) 
 
 What makes a happy country? Is it the country’s economy, politics, or its people? Using data from the International Database (IDB) by the United States Census Bureau and the World Happiness Report Dataset by the World Happiness Report (WHR) organization, I constructed a Multiple Linear Regression model using 13 predictors to predict happiness. My model explains 84.86% of the variance in happiness, F(13,129) = 62.222, p < .05, r-squared = .849. <br /> <br />
 
