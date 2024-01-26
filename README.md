@@ -64,7 +64,7 @@ Using data from 2012 - 2016, several linear regression analysis were conducted t
 [Rendered HTML Page](https://htmlpreview.github.io/?https://github.com/mchau29/Movie_Analysis_R/blob/main/movies-markdown.html) 
 
 ### Scientific Poster: Short, Muscular, and Stressed with High Testosterone: Predictors of Aggression in Men (2023)
-##### Nita V. Pedavalli, Karelys D. Montañez, Spencer Holm, Alina Poothurail, Jaime L. Tartar, Ph.D, Valerie G. Starratt, PhD
+##### Nita V. Pedavalli, Karelys D. Montañez, Spencer Holm, Alina Poothurail, Minh Chau, Jaime L. Tartar, Ph.D, Valerie G. Starratt, PhD
 
 **Results**. Consistent with previous research, a linear multiple regression analysis confirmed that aggression was significantly predicted by the combination of Height, Muscle Mass, and Perceived Stress, F(3, 43) = 13.22, Adj. R2 = .44, p < .001. Height (ß = -0.39, p < .05), Muscle Mass (ß = 0.42, p < .05), and Perceived Stress (ß = 0.56, p < .001) were all uniquely significant predictors of aggression. To examine individual differences in the relationship between these biometric measures and men’s reports of aggression, we correlated model residuals with Testosterone. The correlation was significant, r = .29, p < .05. 
 
