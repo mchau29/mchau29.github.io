@@ -32,7 +32,8 @@
 
 ## Projects
 ### World Happiness (2024).
-![image](https://github.com/mchau29/mchau29.github.io/assets/113917229/916046e7-ad4f-4255-8d62-6e89d587c2ef)
+![image](https://github.com/mchau29/mchau29.github.io/assets/113917229/916046e7-ad4f-4255-8d62-6e89d587c2ef) 
+A pairplot illustrating the correlation between happiness & 13 other predictors. <br />
 [Jupyter Notebook](https://github.com/mchau29/world-happiness/blob/main/world%20happiness.ipynb) | 
 [Rendered HTML Page](https://htmlpreview.github.io/?https://github.com/mchau29/world-happiness/blob/main/world%20happiness%20html.html) 
 
