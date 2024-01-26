@@ -1,4 +1,4 @@
-![image](https://github.com/mchau29/mchau29.github.io/assets/113917229/c38a9f3e-5c54-4b4a-a821-29e6982eaee1)![image](https://github.com/mchau29/mchau29.github.io/assets/113917229/e93f4d4f-4366-43a2-a157-74ff4e5e0959)# Project Manager, Aspiring Data Scientist
+# Project Manager, Aspiring Data Scientist
 #### Technical Skills: Python, SQL, R
 
 
