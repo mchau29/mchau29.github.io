@@ -40,13 +40,13 @@ Figure 1. _Budgets Predict Revenue (in Million of Dollars) for Movies Released b
 
 
 ## Work Experience
-**Project Manager, _Intervent Clinical Research Center, FL (2023 - current)_**
+**Project Manager, _Intervent Clinical Research Center, FL (2023 - current)_** <br/>
 •	Write functions in Python to perform statistical tests, data visualization, and model-building to identify factors contributing to participants’ churning. 
-•	Construct a linear regression model to identify the best time to contact patients, use age as a predictor, to (1) estimate the best time to contact participants, and (2) identify participants who are not very responsive to phone calls.
+•	Construct a linear regression model to identify the best time to contact patients, use age as a predictor, to (1) estimate the best time to contact participants, and (2) identify participants who are not very responsive to phone calls. <br/>
 
-**Graduate Research Assistant, _Nova Southeastern University, FL (2021 - 2023)_**
-Co-author in two published papers in the field of (1) Behavioral Neuroscience and (2) Exercise & Nutrition journals.
-Constructed a linear regression model predicting aggression in men using Height, Muscle Mass, Peceived Stress, and Testosterone
+**Graduate Research Assistant, _Nova Southeastern University, FL (2021 - 2023)_** <br/>
+Co-author in two published papers in the field of (1) Behavioral Neuroscience and (2) Exercise & Nutrition journals. <br/>
+Constructed a linear regression model predicting aggression in men using Height, Muscle Mass, Peceived Stress, and Testosterone <br/>
 ![image](https://github.com/mchau29/mchau29.github.io/assets/113917229/4299e8c1-d747-4889-9cc4-465fff7f81a4)
 
 
