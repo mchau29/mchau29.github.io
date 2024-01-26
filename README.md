@@ -38,7 +38,9 @@
 
 What makes a happy country? Is it the country’s economy, politics, or its people? Using data from the International Database (IDB) by the United States Census Bureau and the World Happiness Report Dataset by the World Happiness Report (WHR) organization, I constructed a Multiple Linear Regression model using 13 predictors to predict happiness. My model explains 84.86% of the variance in happiness, F(13,129) = 62.222, p < .05, r-squared = .849. <br /> <br />
 
-According to this model, people are likely to report feeling happier when (1) their country is doing well financially, (2) their health, freedom, and social support are well-taken care of, and (3) when the population is younger, and, unexpectedly, higher death rate. Due to a lack of experimental control, causation cannot be inferred yet. It is recommended for future studies to explore the relationships between these variables so policies can be made to further increase people's happiness. <br /> <br />
+According to this model, people are likely to report feeling happier when (1) their country is doing well financially and (2) their health, freedom, and social support are well-taken care of. Surprisingly, a person's perception of corruption in their country does not have an effect on their happiness (i.e., they may perceive a lot of corruption happening in their country, they would not let that determine how happy they are). In countries where people reported feeling happier, the country population tend to be younger; however, their annual death rate seems to be higher, comparing to countries where people reported feeling not as happy. <br /> <br />
+
+Due to a lack of experimental control, causation cannot be inferred yet. It is recommended for future studies to explore the relationships between these variables so policies can be made to further increase people's happiness. <br /> <br />
 
 **TAGS.** Python, Data Analysis, Multiple Linear Regression Modeling. 
 
