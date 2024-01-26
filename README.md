@@ -16,7 +16,8 @@ People who reported a decrease in negative moods (i.e., confusion, depression, f
 **TAGS.** R-programming language, Between-Subject T-Test, Melatonin, Mood, Sleep Quality 
 
 Figure 1. _Sleep Complaints Under Placebo by Mood Change Under MLT for seven POMS Components._
-![image](https://github.com/mchau29/mchau29.github.io/assets/113917229/620d50f4-b283-4bed-a844-8a069e1c2d1c)
+![image](https://github.com/mchau29/mchau29.github.io/assets/113917229/777b218e-439a-403c-a7ae-3ad064d03b3b)
+
 
 **B.A. in Psychology, _San Diego State University, CA (2018)_**
 
