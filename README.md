@@ -3,10 +3,10 @@
 
 
 ## Education       		
-**M.S. in Experimental Psychology, _Nova Southeastern University, FL (2023)_**
-Master Thesis: Melatonin on Mood, Sleep Impairments Matter. 
+**M.S. in Experimental Psychology, _Nova Southeastern University, FL (2023)_** <br/>
+Master Thesis: Melatonin on Mood, Sleep Impairments Matter. <br/>
 
-The current study aimed to determine if the effect of MLT on mood can be predicted by sleep complaints (SC) when not on MLT in people with Subthreshold Insomnia (SI). As part of a larger double-blinded, crossover study design, 46 participants (Female = 27, Mean age = 29.98 ± 12.72 years) reported their sleep quality, as measured by Insomnia Severity Index (ISI), Epworth Sleepiness Scale (ESS), Restorative Sleep Questionnaire (RSQ), and Pittsburg Sleep Quality Index (PSQI), and mood change, measured by Profile of Mood States (POMS) after two weeks of using MLT (.5mg/spray, as needed) vs. placebo. Several independent sample t-tests were conducted to test for differences in SC scores under placebo between participants who reported an increased mood after using MLT and those who reported a decreased mood after using MLT across seven POMS parameters. 
+The current study aimed to determine if the effect of MLT on mood can be predicted by sleep complaints (SC) when not on MLT in people with Subthreshold Insomnia (SI). As part of a larger double-blinded, crossover study design, 46 participants (Female = 27, Mean age = 29.98 ± 12.72 years) reported their sleep quality, as measured by Insomnia Severity Index (ISI), Epworth Sleepiness Scale (ESS), Restorative Sleep Questionnaire (RSQ), and Pittsburg Sleep Quality Index (PSQI), and mood change, measured by Profile of Mood States (POMS) after two weeks of using MLT (.5mg/spray, as needed) vs. placebo. Several independent sample t-tests were conducted to test for differences in SC scores under placebo between participants who reported an increased mood after using MLT and those who reported a decreased mood after using MLT across seven POMS parameters. <br/>
 
 Table 1. _Sleep Complaint Scores for participants who saw increases or decreases in mood under melatonin, compared to placebo._
 ![image](https://github.com/mchau29/mchau29.github.io/assets/113917229/44248b8e-25d0-4c37-b8f1-b361d5c3d3de)
@@ -23,11 +23,11 @@ Note. “Decrease” and “Increase” refers to Changes in Mood, as measured b
 
 
 ## Specialization & Professional Certificates       	
-**Machine Learning Professional Certificate, _IBM (in-progress)_**
-**Data Science Fundamentals with Python and SQL Specialization, _IBM (2023)_**
-**HavardX's Data Science Professional Certificate, _edX (2023)_**
-**Google Data Analytics Specialization, _Google (2023)_**
-Capstone Project. Revenue Predictions for the US Movie Industry. 
+**Machine Learning Professional Certificate, _IBM (in-progress)_** <br/>
+**Data Science Fundamentals with Python and SQL Specialization, _IBM (2023)_** <br/>
+**HavardX's Data Science Professional Certificate, _edX (2023)_** <br/>
+**Google Data Analytics Specialization, _Google (2023)_** <br/>
+Capstone Project. Revenue Predictions for the US Movie Industry. <br/>
 
 Using data from 2012 - 2016, several linear regression analysis were conducted to predict revenue based on the budget for each released movies. Results from the analysis show that: 
 1. Action movies generated the most profits and revenues. With lots of budgets, it is the most popular genre.
