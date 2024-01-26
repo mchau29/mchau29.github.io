@@ -59,7 +59,7 @@ People who reported a decrease in negative moods (i.e., confusion, depression, f
 Using data from 2012 - 2016, several linear regression analysis were conducted to predict revenue based on the budget for each released movies. Results from the analysis show that (1) Action movies generated the most profits and revenues. With lots of budgets, it is the most popular genre and (2) It is best to have a movie with a budget around $25 - $50 millions, or $100 millions or more, for those movies to generate profits. 
 
 Figure 1. _Budgets Predict Revenue (in Million of Dollars) for Movies Released between 2012 - 2016._
-![image](https://github.com/mchau29/mchau29.github.io/assets/113917229/0ad9ec51-9803-45d9-a178-11d65e233abb) 
+![image](https://github.com/mchau29/mchau29.github.io/assets/113917229/0ad9ec51-9803-45d9-a178-11d65e233abb) <br/>
 [RMarkDown Notebook](https://github.com/mchau29/Movie_Analysis_R/blob/main/movies%20markdown.Rmd) | 
 [Rendered HTML Page](https://htmlpreview.github.io/?https://github.com/mchau29/Movie_Analysis_R/blob/main/movies-markdown.html) 
 
