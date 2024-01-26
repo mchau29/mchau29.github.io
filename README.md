@@ -10,7 +10,7 @@ Master Thesis: Melatonin on Mood, Sleep Impairments Matter. <br/>
 
 Several independent sample t-tests were conducted to test for differences in SC scores under placebo between participants who reported an increased mood after using MLT and those who reported a decreased mood after using MLT across seven POMS parameters. <br/>
 
-***Results.***
+***Results.*** <br/>
 Table 1. _Sleep Complaint Scores for participants who saw increases or decreases in mood under melatonin, compared to placebo._
 ![image](https://github.com/mchau29/mchau29.github.io/assets/113917229/44248b8e-25d0-4c37-b8f1-b361d5c3d3de)
 
