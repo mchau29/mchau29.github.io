@@ -3,31 +3,33 @@
 
 
 ## Education       		
-- M.S. in Experimental Psychology, _Nova Southeastern University, FL (2023)_    		
-- B.A. in Psychology, _San Diego State University, CA (2018)_ 
+**M.S. in Experimental Psychology, _Nova Southeastern University, FL (2023)_**
+Master Thesis: Melatonin on Mood, Sleep Impairments Matter. 
+
+A growing body of literature shows that melatonin (MLT) effectively improves a person’s daytime mood. However, some studies do not show an effect of MLT on mood measures. The current study aimed to determine if the effect of MLT on mood can be predicted by sleep complaints (SC) when not on MLT in people with Subthreshold Insomnia (SI). As part of a larger double-blinded, crossover study design, 46 participants (Female = 27, Mean age = 29.98 ± 12.72 years) reported their sleep quality, as measured by Insomnia Severity Index (ISI), Epworth Sleepiness Scale (ESS), Restorative Sleep Questionnaire (RSQ), and Pittsburg Sleep Quality Index (PSQI), and mood change, measured by Profile of Mood States (POMS) after two weeks of using MLT (.5mg/spray, as needed) vs. placebo. Several independent sample t-tests were conducted to test for differences in SC scores under placebo between participants who reported an increased mood after using MLT and those who reported a decreased mood after using MLT across seven POMS parameters. People who reported a decrease in negative moods (i.e., confusion, depression, fatigue, tension, and total mood disturbances) reported higher SC under placebo. People who demonstrated an increase in vigor reported higher SC under placebo. Changes in anger were not associated with SC under a placebo. These results suggest that MLT is most likely to precipitate larger beneficial changes in mood for people who experienced the most SC without it.
+
+![image](https://github.com/mchau29/mchau29.github.io/assets/113917229/c282749b-a7f6-468c-b4db-51c6ee67e588)
+![image](https://github.com/mchau29/mchau29.github.io/assets/113917229/5c3790ed-4173-4359-8233-29fc362cde00)
+
+**B.A. in Psychology, _San Diego State University, CA (2018)_**
 
 
 ## Specialization & Professional Certificates       	
-- Machine Learning Professional Certificate _IBM (in-progress)_ 
-- Data Science Fundamentals with Python and SQL Specialization _IBM (2023)_ 
-- HavardX's Data Science Professional Certificate _edX (2023)_ 
-- Google Data Analytics Specialization _Google (2023)_ 
+- Machine Learning Professional Certificate, _IBM (in-progress)_ 
+- Data Science Fundamentals with Python and SQL Specialization, _IBM (2023)_ 
+- HavardX's Data Science Professional Certificate, _edX (2023)_ 
+- Google Data Analytics Specialization, _Google (2023)_ 
 
 
 ## Work Experience
 **Project Manager, _Intervent Clinical Research Center, FL (2023 - current)_**
-- Used Python programming language to build profit forecasting models for two healthcare projects.
-- Estimate the current states of chronic illnesses in the Miami-Ft Lauderdale area using data query and mining techniques.  
-- Supervised the data collection progress and research conducts of 4 clinical trials. 
+•	Write functions in Python to perform statistical tests, data visualization, and model-building to identify factors contributing to participants’ churning. 
+•	Construct a linear regression model to identify the best time to contact patients, use age as a predictor, to (1) estimate the best time to contact participants, and (2) identify participants who are not very responsive to phone calls.
 
 **Graduate Research Assistant, _Nova Southeastern University, FL (2021 - 2023)_**
-- Used R-programming language to perform statistical analyses & data visualization for two clinical studies.
-- Co-author in two published papers in the field of (1) Behavioral Neuroscience and (2) Exercise & Nutrition journals.  
-- Led a team of undergraduate students to conduct the data collection process.
-
-**Recovery Specialist, _South Florida State Hospital, FL (2018 - 2021)_**
-- Identify behavioral pattern to understand the disease progression in 60 patients with schizophrenia.
-- Detect cognitive anomaly in 40 patients with mood disorders and adjust therapeutic approaches if necessary. 
+- Co-author in two published papers in the field of (1) Behavioral Neuroscience and (2) Exercise & Nutrition journals.
+- Constructed a linear regression model predicting aggression in men using Height, Muscle Mass, Peceived Stress, and Testosterone
+![image](https://github.com/mchau29/mchau29.github.io/assets/113917229/4299e8c1-d747-4889-9cc4-465fff7f81a4)
 
 
 ## Projects
