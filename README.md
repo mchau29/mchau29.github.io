@@ -20,7 +20,7 @@
 - Recovery Specialist, _South Florida State Hospital, FL (2021 - 2023)_ 
 
 ## Projects
-### World Happiness: Multiple LR Modeling with Python (2024).
+### World Happiness: Multiple LR Modeling with Python (2024)
 What makes a happy country? Is it the country’s economy, politics, or its people? Using data from the International Database (IDB) by the United States Census Bureau and the World Happiness Report Dataset by the World Happiness Report (WHR) organization, I constructed a Multiple Linear Regression model using 13 predictors to predict happiness. My model explains 84.86% of the variance in happiness, F(13,129) = 62.222, p < .05, r-squared = .849. <br />
 
 According to this model, people are likely to report feeling happier when (1) their country is doing well financially and (2) their health, freedom, and social support are well-taken care of. Surprisingly, a person's perception of corruption in their country does not have an effect on their happiness (i.e., they may perceive a lot of corruption happening in their country, they would not let that determine how happy they are). In countries where people reported feeling happier, the country population tend to be younger; however, their annual death rate seems to be higher, comparing to countries where people reported feeling not as happy. <br />
@@ -35,7 +35,7 @@ Due to a lack of experimental control, causation cannot be inferred yet. It is r
 
 **TAGS.** Python, Data Analysis, Multiple Linear Regression Modeling. 
 
-### Master Thesis: Melatonin on Mood, Sleep Impairments Matter (2023).
+### Master Thesis: Melatonin on Mood, Sleep Impairments Matter (2023)
 
 **Method.** <br/>
 As part of a larger double-blinded, crossover study design, 46 participants (Female = 27, Mean age = 29.98 ± 12.72 years) reported their sleep quality, as measured by Insomnia Severity Index (ISI), Epworth Sleepiness Scale (ESS), Restorative Sleep Questionnaire (RSQ), and Pittsburg Sleep Quality Index (PSQI), and mood change, measured by Profile of Mood States (POMS) after two weeks of using MLT (.5mg/spray, as needed) vs. placebo. This study aimed to determine if the effect of MLT on mood can be predicted by sleep complaints (SC) when not on MLT in people with Subthreshold Insomnia (SI). <br/>
@@ -54,7 +54,7 @@ People who reported a decrease in negative moods (i.e., confusion, depression, f
 
 **TAGS.** R-programming language, Between-Subject T-Test, Melatonin, Mood, Sleep Quality 
 
-### Google Data Analytics Capstone Project: Revenue Predictions for the US Movie Industry (2023).
+### Google Data Analytics Capstone Project: Revenue Predictions for the US Movie Industry (2023)
 
 Using data from 2012 - 2016, several linear regression analysis were conducted to predict revenue based on the budget for each released movies. Results from the analysis show that (1) Action movies generated the most profits and revenues. With lots of budgets, it is the most popular genre and (2) It is best to have a movie with a budget around $25 - $50 millions, or $100 millions or more, for those movies to generate profits. 
 
@@ -63,7 +63,7 @@ Using data from 2012 - 2016, several linear regression analysis were conducted t
 [RMarkDown Notebook](https://github.com/mchau29/Movie_Analysis_R/blob/main/movies%20markdown.Rmd) | 
 [Rendered HTML Page](https://htmlpreview.github.io/?https://github.com/mchau29/Movie_Analysis_R/blob/main/movies-markdown.html) 
 
-### Scientific Poster: Short, Muscular, and Stressed with High Testosterone: Predictors of Aggression in Men (2023).
+### Scientific Poster: Short, Muscular, and Stressed with High Testosterone: Predictors of Aggression in Men (2023)
 ##### Nita V. Pedavalli, Karelys D. Montañez, Spencer Holm, Alina Poothurail, Jaime L. Tartar, Ph.D, Valerie G. Starratt, PhD
 
 **Results**. Consistent with previous research, a linear multiple regression analysis confirmed that aggression was significantly predicted by the combination of Height, Muscle Mass, and Perceived Stress, F(3, 43) = 13.22, Adj. R2 = .44, p < .001. Height (ß = -0.39, p < .05), Muscle Mass (ß = 0.42, p < .05), and Perceived Stress (ß = 0.56, p < .001) were all uniquely significant predictors of aggression. To examine individual differences in the relationship between these biometric measures and men’s reports of aggression, we correlated model residuals with Testosterone. The correlation was significant, r = .29, p < .05. 
