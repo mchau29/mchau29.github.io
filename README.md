@@ -37,18 +37,19 @@ Figure 1. A pairplot illustrating the correlation between happiness & 13 other p
 
 ### Master Thesis: Melatonin on Mood, Sleep Impairments Matter (2023).
 
-***Method.*** As part of a larger double-blinded, crossover study design, 46 participants (Female = 27, Mean age = 29.98 ± 12.72 years) reported their sleep quality, as measured by Insomnia Severity Index (ISI), Epworth Sleepiness Scale (ESS), Restorative Sleep Questionnaire (RSQ), and Pittsburg Sleep Quality Index (PSQI), and mood change, measured by Profile of Mood States (POMS) after two weeks of using MLT (.5mg/spray, as needed) vs. placebo. This study aimed to determine if the effect of MLT on mood can be predicted by sleep complaints (SC) when not on MLT in people with Subthreshold Insomnia (SI). <br/>
+**Method.** <br/>
+As part of a larger double-blinded, crossover study design, 46 participants (Female = 27, Mean age = 29.98 ± 12.72 years) reported their sleep quality, as measured by Insomnia Severity Index (ISI), Epworth Sleepiness Scale (ESS), Restorative Sleep Questionnaire (RSQ), and Pittsburg Sleep Quality Index (PSQI), and mood change, measured by Profile of Mood States (POMS) after two weeks of using MLT (.5mg/spray, as needed) vs. placebo. This study aimed to determine if the effect of MLT on mood can be predicted by sleep complaints (SC) when not on MLT in people with Subthreshold Insomnia (SI). <br/>
 
 Several independent sample t-tests were conducted to test for differences in SC scores under placebo between participants who reported an increased mood after using MLT and those who reported a decreased mood after using MLT across seven POMS parameters. <br/>
 
-***Results.*** <br/>
+**Results.** <br/>
 Table 1. _Sleep Complaint Scores for participants who saw increases or decreases in mood under melatonin, compared to placebo._
 ![image](https://github.com/mchau29/mchau29.github.io/assets/113917229/44248b8e-25d0-4c37-b8f1-b361d5c3d3de)
 
 Figure 1. _Sleep Complaints Under Placebo by Mood Change Under MLT for seven POMS Components._
 ![image](https://github.com/mchau29/mchau29.github.io/assets/113917229/777b218e-439a-403c-a7ae-3ad064d03b3b)
 
-***Take-Home Message.***
+**Take-Home Message.**
 People who reported a decrease in negative moods (i.e., confusion, depression, fatigue, tension, and total mood disturbances) reported higher SC under placebo. People who demonstrated an increase in vigor reported higher SC under placebo. Changes in anger were not associated with SC under a placebo. These results suggest that MLT is most likely to precipitate larger beneficial changes in mood for people who experienced the most SC without it.
 
 **TAGS.** R-programming language, Between-Subject T-Test, Melatonin, Mood, Sleep Quality 
@@ -65,12 +66,12 @@ Figure 1. _Budgets Predict Revenue (in Million of Dollars) for Movies Released b
 ### Scientific Poster: Short, Muscular, and Stressed with High Testosterone: Predictors of Aggression in Men (2023).
 ##### Nita V. Pedavalli, Karelys D. Montañez, Spencer Holm, Alina Poothurail, Jaime L. Tartar, Ph.D, Valerie G. Starratt, PhD
 
-***Results***. Consistent with previous research, a linear multiple regression analysis confirmed that aggression was significantly predicted by the combination of Height, Muscle Mass, and Perceived Stress, F(3, 43) = 13.22, Adj. R2 = .44, p < .001. Height (ß = -0.39, p < .05), Muscle Mass (ß = 0.42, p < .05), and Perceived Stress (ß = 0.56, p < .001) were all uniquely significant predictors of aggression. To examine individual differences in the relationship between these biometric measures and men’s reports of aggression, we correlated model residuals with Testosterone. The correlation was significant, r = .29, p < .05. 
+**Results**. Consistent with previous research, a linear multiple regression analysis confirmed that aggression was significantly predicted by the combination of Height, Muscle Mass, and Perceived Stress, F(3, 43) = 13.22, Adj. R2 = .44, p < .001. Height (ß = -0.39, p < .05), Muscle Mass (ß = 0.42, p < .05), and Perceived Stress (ß = 0.56, p < .001) were all uniquely significant predictors of aggression. To examine individual differences in the relationship between these biometric measures and men’s reports of aggression, we correlated model residuals with Testosterone. The correlation was significant, r = .29, p < .05. 
 
 Figure 1. _Residual aggression significantly correlated with Testosterone_
 ![image](https://github.com/mchau29/mchau29.github.io/assets/113917229/31f57ec7-96de-4a57-9725-cf74f12c6e47)
 
-***Take Home Message.*** Shorter stature, more muscle mass, and increased perceived stress are each predictive of higher levels of aggression in men. Men who are higher in testosterone tend to report even higher levels aggression than would be predicted given their height, muscle mass, and perceived stress. 
+**Take Home Message.** Shorter stature, more muscle mass, and increased perceived stress are each predictive of higher levels of aggression in men. Men who are higher in testosterone tend to report even higher levels aggression than would be predicted given their height, muscle mass, and perceived stress. 
 
 **TAGS.** R-programming language, linear regression modeling, aggression, testosterone, men <br/>
 
