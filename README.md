@@ -1,7 +1,6 @@
 # Project Manager, Aspiring Data Scientist
 #### Technical Skills: Python, SQL, R
 
-
 ## Education       		
 - M.S. in Experimental Psychology, _Nova Southeastern University, FL (2023)_ 
 - B.A. in Psychology, _San Diego State University, CA (2018)_ 
@@ -20,7 +19,9 @@
 - Recovery Specialist, _South Florida State Hospital, FL (2021 - 2023)_ 
 
 ## Projects
-### World Happiness: Multiple LR Modeling with Python (2024)
+### World Happiness: Multiple Linear Regression Modeling with Python (2024)
+This is a capstone project for the Data Science Fundamentals with Python and SQL Specialization (IMB). Data was collected from the WInternational Database (IDB) by United States Census Bureau and World Happiness Report Dataset by the World Happiness Report (WHR) organization. 
+
 What makes a happy country? Is it the country’s economy, politics, or its people? Using data from the International Database (IDB) by the United States Census Bureau and the World Happiness Report Dataset by the World Happiness Report (WHR) organization, I constructed a Multiple Linear Regression model using 13 predictors to predict happiness. My model explains 84.86% of the variance in happiness, F(13,129) = 62.222, p < .05, r-squared = .849. <br />
 
 According to this model, people are likely to report feeling happier when (1) their country is doing well financially and (2) their health, freedom, and social support are well-taken care of. Surprisingly, a person's perception of corruption in their country does not have an effect on their happiness (i.e., they may perceive a lot of corruption happening in their country, they would not let that determine how happy they are). In countries where people reported feeling happier, the country population tend to be younger; however, their annual death rate seems to be higher, comparing to countries where people reported feeling not as happy. <br />
@@ -54,7 +55,21 @@ People who reported a decrease in negative moods (i.e., confusion, depression, f
 
 **TAGS.** R-programming language, Between-Subject T-Test, Melatonin, Mood, Sleep Quality 
 
-### Google Data Analytics Capstone Project: Revenue Predictions for the US Movie Industry (2023)
+### Spaceship Titanic (2023)
+This is a capstone project for the Data Science Professional Certificate (HavardX). This dataset was originated from [Kaggle](https://www.kaggle.com/competitions/spaceship-titanic/overview), an online community for Data Science & Machine Learning Enthusiasts. 
+
+It is the year of 2912. The Spaceship Titanic, an interstellar vessel carried 13,000 passengers on board, set out to transport emigrants from our Solar System to three newly habitable exo-planets. While rounding Alpha Centauri en route to its first destination - 55 Cancri E -, the spaceship collided with a spacetime anomaly that transported almost half of the passengers to an alternate dimension.
+
+Using the Random Forest method, the following predictors were used to predict whether a passenger was transported to an alternate dimension: Age, Party Size, Luxury, Home Planet, Destination, using VR services, the Cabin deck and its position on the spaceship, and Cryo-Sleep status.
+
+This algorithm yields a .75 accuracy, with .80 Sensitivity and .70 Specificity. Now let’s hope the Rescue Team can save our passengers. For those passengers that are missed by my algorithm, may the alternate dimension treat them well.
+
+![image](https://github.com/mchau29/mchau29.github.io/assets/113917229/a92b0828-72ed-4e0d-81fe-17b2fb4b00b3)  <br/>
+[RMarkDown Notebook](https://github.com/mchau29/R---ML---Titanic-Spaceship/blob/main/ML%20-%20prediction%201.Rmd) | 
+[Rendered HTML Page](https://htmlpreview.github.io/?https://github.com/mchau29/R---ML---Titanic-Spaceship/blob/main/ML---prediction-1.html)
+
+### Revenue Predictions for the US Movie Industry (2023)
+This is a capstone project for the Data Analytics Specialization (Google). This dataset was queried from _The Bikeshare Dataset from Google BigQuery Sandbox_.
 
 Using data from 2012 - 2016, several linear regression analysis were conducted to predict revenue based on the budget for each released movies. Results from the analysis show that (1) Action movies generated the most profits and revenues. With lots of budgets, it is the most popular genre and (2) It is best to have a movie with a budget around $25 - $50 millions, or $100 millions or more, for those movies to generate profits. 
 
