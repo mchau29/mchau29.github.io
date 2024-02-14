@@ -3,5 +3,6 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 logo: assets/img/logo1.png
 #description: text below image
+show downloads: true
 title: Minh K. Chau
 description: I am pleasant to work with, I promise!
