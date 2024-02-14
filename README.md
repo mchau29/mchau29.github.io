@@ -1,24 +1,22 @@
 # Project Manager, Aspiring Data Scientist
 #### Technical Skills: Python, SQL, R
 
-## Education       		
+## WORK EXPERIENCE
+- Project Manager, _Intervent Clinical Research Center, FL (2023 - current)_ 
+- Graduate Research Assistant, _Nova Southeastern University, FL (2021 - 2023)_ 
+- Recovery Specialist, _South Florida State Hospital, FL (2021 - 2023)_
+  
+## EDUCATION       		
 - M.S. in Experimental Psychology, _Nova Southeastern University, FL (2023)_ 
 - B.A. in Psychology, _San Diego State University, CA (2018)_ 
 
-
-## Specialization & Professional Certificates       	
+## DATA SCIENCE SPECIALIZATION & PROFESSIONAL CERTIFICATES    	
 - Machine Learning Professional Certificate, _IBM (in-progress)_ 
 - Data Science Fundamentals with Python and SQL Specialization, _IBM (2023)_ 
 - HavardX's Data Science Professional Certificate, _edX (2023)_ 
 - Google Data Analytics Specialization, _Google (2023)_ 
 
-
-## Work Experience
-- Project Manager, _Intervent Clinical Research Center, FL (2023 - current)_ 
-- Graduate Research Assistant, _Nova Southeastern University, FL (2021 - 2023)_ 
-- Recovery Specialist, _South Florida State Hospital, FL (2021 - 2023)_ 
-
-## Projects
+## DATA SCIENCE PROJECTS
 ### World Happiness: Multiple Linear Regression Modeling with Python (2024)
 This is a capstone project for the Data Science Fundamentals with Python and SQL Specialization (IMB). Data was collected from the WInternational Database (IDB) by United States Census Bureau and World Happiness Report Dataset by the World Happiness Report (WHR) organization. 
 
@@ -89,12 +87,12 @@ Using data from 2012 - 2016, several linear regression analysis were conducted t
 **TAGS.** R-programming language, linear regression modeling, aggression, testosterone, men <br/>
 
 
-## Publications
+## PUBLICATIONS 
 1. Thompson, K. I., Chau, M., Lorenzetti, M. S., Hill, L. D., Fins, A. I., & Tartar, J. L. (2022). Acute sleep deprivation disrupts emotion, cognition, inflammation, and cortisol in young healthy adults. Frontiers in behavioral neuroscience, 16, 945661. https://doi.org/10.3389/fnbeh.2022.945661
 2. Tartar, J., Astacio, M. ., Chau, M. ., Lin, L. ., LeMoire, A., & Banks, J. (2022). A Randomized Double-Blind Placebo-Controlled Trial of a Purported Dietary Supplement Cognitive Enhancer in Healthy Teenage Subjects : Original Research. Journal of Exercise and Nutrition, 5(3). https://doi.org/10.53520/jen2022.103131
 
 
-## Clinical Trials
+## CLINICAL TRIALS & RESEARCH STUDIES 
 ***Intervent Clinical Research Center, FL*** 
 1. Roche Cancer Screening Collection Study (GO44296), _F. Hoffmann-La Roche Ltd_ (2023 - current)
 2. A 52-week, randomized, double-blind, double-dummy, placebo- and active- controlled (Roflumilast, Daliresp® 500μg), parallel group, study to evaluate the efficacy and safety of two doses of CHF6001 DPI add-on to maintenance triple therapy in subjects with Chronic Obstructive Pulmonary Disease (COPD) and chronic bronchitis (CLI-06001AA1-05 PILLAR), _Chiesi Farmaceutici S.p.A_ (2023 - current)
