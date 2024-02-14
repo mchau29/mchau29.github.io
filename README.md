@@ -38,12 +38,10 @@ Due to a lack of experimental control, causation cannot be inferred yet. It is r
 
 ### Master Thesis: Melatonin on Mood, Sleep Impairments Matter (2023)
 
-**Method.** <br/>
 As part of a larger double-blinded, crossover study design, 46 participants (Female = 27, Mean age = 29.98 ± 12.72 years) reported their sleep quality, as measured by Insomnia Severity Index (ISI), Epworth Sleepiness Scale (ESS), Restorative Sleep Questionnaire (RSQ), and Pittsburg Sleep Quality Index (PSQI), and mood change, measured by Profile of Mood States (POMS) after two weeks of using MLT (.5mg/spray, as needed) vs. placebo. This study aimed to determine if the effect of MLT on mood can be predicted by sleep complaints (SC) when not on MLT in people with Subthreshold Insomnia (SI). <br/>
 
 Several independent sample t-tests were conducted to test for differences in SC scores under placebo between participants who reported an increased mood after using MLT and those who reported a decreased mood after using MLT across seven POMS parameters. <br/>
 
-**Results.** <br/>
 ##### **Table 1.** Sleep Complaint Scores for participants who saw increases or decreases in mood under melatonin, compared to placebo.
 ![image](https://github.com/mchau29/mchau29.github.io/assets/113917229/44248b8e-25d0-4c37-b8f1-b361d5c3d3de)
 
@@ -98,8 +96,14 @@ Using data from 2012 - 2016, several linear regression analysis were conducted t
 
 
 ## Clinical Trials
-1. Melatonin spray (.5mg) on nighttime awakening and sleep quality evaluation, _Nature Bounty (2022)_
-2. Revactin supplement and its effects on Men Sexual Health and Wellbeing, _MD Associates (2023)_
-3. A phase III, 52-week, multinational, multicenter, randomized, double-blind, 2-arm parallel group study comparing efficacy, safety and tolerability of the fixed dose triple combination of beclomethasone dipropionate plus formoterol fumarate plus glycopyrronium bromide (CHF 5993) with the fixed dose dual combination of beclomethasone dipropionate plus formoterol fumarate (CHF 1535), both administered via pMDI in subjects with chronic obstructive pulmonary disease (COPD), _Chiesi Farmaceutici S.p.A. (2023)_
-4. A 52-week, randomized, double-blind, double-dummy, placebo- and active- controlled (Roflumilast, Daliresp® 500μg), parallel group, study to evaluate the efficacy and safety of two doses of CHF6001 DPI add-on to maintenance triple therapy in subjects with Chronic Obstructive Pulmonary Disease (COPD) and chronic bronchitis, _Chiesi Farmaceutici S.p.A. (2023)_
-5. Roche Cancer Screening Collection Study, _Roche Molecular Systems, Inc. (2023)_
+
+#### Intervent Clinical Research Center, FL
+1. Roche Cancer Screening Collection Study (GO44296), _F. Hoffmann-La Roche Ltd_ (2023 - current)
+2. A 52-week, randomized, double-blind, double-dummy, placebo- and active- controlled (Roflumilast, Daliresp® 500μg), parallel group, study to evaluate the efficacy and safety of two doses of CHF6001 DPI add-on to maintenance triple therapy in subjects with Chronic Obstructive Pulmonary Disease (COPD) and chronic bronchitis (CLI-06001AA1-05 PILLAR), _Chiesi Farmaceutici S.p.A_ (2023 - current)
+3. A phase III, 52-week, multinational, multicenter, randomized, double-blind, 2-arm parallel group study comparing efficacy, safety and tolerability of the fixed dose triple combination of beclomethasone dipropionate plus formoterol fumarate plus glycopyrronium bromide (CHF 5993) with the fixed dose dual combination of beclomethasone dipropionate plus formoterol fumarate (CHF 1535), both administered via pMDI in subjects with chronic obstructive pulmonary disease (CLI-05993AA3-06 TRITON), _Chiesi Farmaceutici S.p.A_ (2023 - current)
+4. Post Approval Study for Non-Adjunctive Use of Dexcom G5® and G6® CGM System for Diabetes Management, COntinuous Monitoring And Control of Hypoglycemia: The COACH Study (PTL-901895), _Dexcom, Inc._ (2023 - current)
+#### Nova Southeastern University, FL 
+1. Revactin supplement and its effects on Men Sexual Health and Wellbeing, _MD Associates_ (2023)
+2. Melatonin spray (.5mg) on nighttime awakening and sleep quality evaluation, _Nature Bounty_ (2022)
+
+  
