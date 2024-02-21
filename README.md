@@ -3,8 +3,8 @@
 
 ## WORK EXPERIENCE
 - Project Manager, _Intervent Clinical Research Center, FL (2023 - current)_ 
-- Graduate Research Assistant, _Nova Southeastern University, FL (2021 - 2023)_ 
-- Recovery Specialist, _South Florida State Hospital, FL (2021 - 2023)_
+- Research Assistant, _Nova Southeastern University, FL (2021 - 2023)_ 
+- Recovery Specialist, _South Florida State Hospital, FL (2018 - 2021)_
   
 ## EDUCATION       		
 - M.S. in Experimental Psychology, _Nova Southeastern University, FL (2023)_ 
