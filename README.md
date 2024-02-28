@@ -1,6 +1,12 @@
 # Project Manager, Aspiring Data Scientist
 #### Technical Skills: Python, SQL, R
 
+## ABOUT ME
+I like data. </br>
+I am experienced in research methodology, healthcare, and data science. I enjoy working on personal data science project to understand the intricacy and dynamics of humanity. </br>
+Fascinating with the field of Clinical Psychology, my goal is to write an algorithm to assist physicians and improve their accuracy in diagnosing mental disorders. </br>
+Beside my professional identity, I am a gamer, an anime nerd, and a cat dad. 
+
 ## WORK EXPERIENCE
 - Project Manager, _Intervent Clinical Research Center, FL (2023 - current)_ 
 - Research Assistant, _Nova Southeastern University, FL (2021 - 2023)_ 
