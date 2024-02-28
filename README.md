@@ -3,8 +3,8 @@
 
 ## WORK EXPERIENCE
 - Project Manager, _Intervent Clinical Research Center, FL (2023 - current)_ 
-- Graduate Research Assistant, _Nova Southeastern University, FL (2021 - 2023)_ 
-- Recovery Specialist, _South Florida State Hospital, FL (2021 - 2023)_
+- Research Assistant, _Nova Southeastern University, FL (2021 - 2023)_ 
+- Recovery Specialist, _South Florida State Hospital, FL (2018 - 2021)_
   
 ## EDUCATION       		
 - M.S. in Experimental Psychology, _Nova Southeastern University, FL (2023)_ 
@@ -97,10 +97,14 @@ Using data from 2012 - 2016, several linear regression analysis were conducted t
 1. Roche Cancer Screening Collection Study (GO44296), _F. Hoffmann-La Roche Ltd_
 2. A 52-week, randomized, double-blind, double-dummy, placebo- and active- controlled (Roflumilast, Daliresp® 500μg), parallel group, study to evaluate the efficacy and safety of two doses of CHF6001 DPI add-on to maintenance triple therapy in subjects with Chronic Obstructive Pulmonary Disease (COPD) and chronic bronchitis (CLI-06001AA1-05 PILLAR), _Chiesi Farmaceutici S.p.A_
 3. A phase III, 52-week, multinational, multicenter, randomized, double-blind, 2-arm parallel group study comparing efficacy, safety and tolerability of the fixed dose triple combination of beclomethasone dipropionate plus formoterol fumarate plus glycopyrronium bromide (CHF 5993) with the fixed dose dual combination of beclomethasone dipropionate plus formoterol fumarate (CHF 1535), both administered via pMDI in subjects with chronic obstructive pulmonary disease (CLI-05993AA3-06 TRITON), _Chiesi Farmaceutici S.p.A_
-4. Post Approval Study for Non-Adjunctive Use of Dexcom G5® and G6® CGM System for Diabetes Management, COntinuous Monitoring And Control of Hypoglycemia: The COACH Study (PTL-901895), _Dexcom, Inc._ </br>
+4. Post Approval Study for Non-Adjunctive Use of Dexcom G5® and G6® CGM System for Diabetes Management, COntinuous Monitoring And Control of Hypoglycemia: The COACH Study (PTL-901895), _Dexcom, Inc._
+
 
 ***Nova Southeastern University, FL (2021 - 2023)*** 
 1. Revactin supplement and its effects on Men Sexual Health and Wellbeing, _MD Associates_ 
 2. Melatonin spray (.5mg) on nighttime awakening and sleep quality evaluation, _Nature Bounty_ 
 
-  
+
+##### PS: *This is my cat. Her name is Noodle. She takes after me, isn't she?*
+![xiu min](https://github.com/mchau29/mchau29.github.io/assets/113917229/10067377-ae23-49ee-beda-9958f79d9408)
+##### *I am pleasant to work with, I promise!*
