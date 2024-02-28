@@ -2,9 +2,10 @@
 #### Technical Skills: Python, SQL, R
 
 ## ABOUT ME
-I like data. </br>
-I am experienced in research methodology, healthcare, and data science. I enjoy working on personal data science project to understand the intricacy and dynamics of humanity. Fascinating with the field of Clinical Psychology, my goal is to write an algorithm to assist physicians and improve their accuracy in diagnosing mental disorders. </br>
-Beside my professional identity, I am a gamer, an anime nerd, and a cat dad. 
+I like data. <br/>
+I am experienced in research methodology, healthcare, and data science. I enjoy working on personal data science project to understand the intricacy and dynamics of humanity. Fascinating with the field of Clinical Psychology, my goal is to write an algorithm to assist physicians and improve their accuracy in diagnosing mental disorders. <br/>
+
+That's a brief introduction about me. I would like to hear yours too. Let's connect!!!
 
 ## WORK EXPERIENCE
 - Project Manager, _Intervent Clinical Research Center, FL (2023 - current)_ 
@@ -112,4 +113,4 @@ Using data from 2012 - 2016, several linear regression analysis were conducted t
 
 ##### PS: *This is my cat. Her name is Noodle. She takes after me, isn't she?*
 ![xiu min](https://github.com/mchau29/mchau29.github.io/assets/113917229/10067377-ae23-49ee-beda-9958f79d9408)
-##### *I am pleasant to work with, I promise!*
+##### *Beside my professional identity, I am a gamer, an anime nerd, and a cat dad.*
