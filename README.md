@@ -3,8 +3,7 @@
 
 ## ABOUT ME
 I like data. </br>
-I am experienced in research methodology, healthcare, and data science. I enjoy working on personal data science project to understand the intricacy and dynamics of humanity. </br>
-Fascinating with the field of Clinical Psychology, my goal is to write an algorithm to assist physicians and improve their accuracy in diagnosing mental disorders. </br>
+I am experienced in research methodology, healthcare, and data science. I enjoy working on personal data science project to understand the intricacy and dynamics of humanity. Fascinating with the field of Clinical Psychology, my goal is to write an algorithm to assist physicians and improve their accuracy in diagnosing mental disorders. </br>
 Beside my professional identity, I am a gamer, an anime nerd, and a cat dad. 
 
 ## WORK EXPERIENCE
