@@ -105,6 +105,6 @@ Using data from 2012 - 2016, several linear regression analysis were conducted t
 2. Melatonin spray (.5mg) on nighttime awakening and sleep quality evaluation, _Nature Bounty_ 
 
 
-##### PS: *My cat is pretty!*
+##### PS: *This is my cat. Her name is Noodle. She takes after me, isn't she?*
 ![xiu min](https://github.com/mchau29/mchau29.github.io/assets/113917229/10067377-ae23-49ee-beda-9958f79d9408)
-##### *And I am pleasant to work with, I promise!*
+##### *I am pleasant to work with, I promise!*
