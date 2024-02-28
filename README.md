@@ -2,7 +2,7 @@
 #### Technical Skills: Python, SQL, R
 
 ## ABOUT ME
-I am an experienced professional in research methodology, healthcare, and data science. Fascinating with the field of Clinical Psychology, my goal is to write an algorithm to assist physicians and improve their accuracy in diagnosing mental disorders. On a good day, I enjoy working on personal data science project to understand the intricacy and dynamics of humanity. <br/>
+I am an experienced professional in research methodology, psychiatric healthcare, and data science. Fascinating with the field of Clinical Psychology, it is my goal to develop an algorithm and AI that physicians can use to further boost their accuracy in diagnosing mental disorders. On a good day, I enjoy working on personal data science project to understand the intricacy and dynamics between civilization, humanity, and human behaviors. <br/>
 
 That's a brief introduction about me. I would like to hear yours too. Let's connect!!!
 
