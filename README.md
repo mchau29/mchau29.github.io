@@ -111,6 +111,6 @@ Using data from 2012 - 2016, several linear regression analysis were conducted t
 2. Melatonin spray (.5mg) on nighttime awakening and sleep quality evaluation, _Nature Bounty_ 
 
 
-##### Beside my professional identity, I am a gamer, an anime nerd, an optimistic Nihilist, and a cat dad. <br/> My name in Chinese is 朱建明 (*Zhū-jiàn-míng, a bright person*). Hopefully I live up to my name's expectation. And This is my cat, 小麵 (Little Noodle). 
+##### Fun Fact. Beside my professional identity, I am a gamer, an anime nerd, an optimistic Nihilist, and a cat dad. My name in Chinese is 朱建明 (*Zhū-jiàn-míng, a bright person*). Hopefully I live up to my name's expectation. And This is my cat, 小麵 (Little Noodle). 
 ![xiu min](https://github.com/mchau29/mchau29.github.io/assets/113917229/10067377-ae23-49ee-beda-9958f79d9408)
 ##### "A future is not given to you. It is something you must take for yourself," Pod042, *Nier Automata.* 
