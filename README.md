@@ -114,3 +114,4 @@ Using data from 2012 - 2016, several linear regression analysis were conducted t
 ##### This is my cat. Her name is Noodle. She takes after me, doesn't she?
 ![xiu min](https://github.com/mchau29/mchau29.github.io/assets/113917229/10067377-ae23-49ee-beda-9958f79d9408)
 ##### PS. Beside my professional identity, I am a gamer, an anime nerd, an optimistic Nihilist, and a cat dad. 
+##### "A future is not given to you. It is something you must take for yourself," Pod042, *Nier Automata.* 
