@@ -2,7 +2,7 @@
 #### Technical Skills: Python, SQL, R
 
 ## ABOUT ME
-I am a scientist who is fascinating with data science concepts, research methodology, and behavioral health. It is my goal to develop an AI physicians can use to further boost their accuracy in diagnosing mental disorders. On a good day, I enjoy working on data science project to understand the intricacy and dynamics between civilization, humanity, and human behaviors. <br/>
+I am a scientist who is fascinating with data science concepts, research methodology, and behavioral health. It is my goal to develop an AI physicians can use to further boost their accuracy in diagnosing mental disorders. On a good day, I enjoy working on data science project to understand the intricacy and dynamic between civilization, humanity, and behaviors. <br/>
 
 That's a brief introduction about me. I would like to hear yours too. Let's connect!!!
 
