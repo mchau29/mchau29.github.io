@@ -1,5 +1,5 @@
-# Project Manager, Aspiring Data Scientist
-#### Technical Skills: Python, SQL, R
+# Senior Research Associate, Aspiring Data Scientist
+#### Technical Skills: Python,SQL, R
 
 ## ABOUT ME
 I am a scientist who is fascinating with data science concepts, research methodology, and behavioral health. It is my goal to develop an AI physicians can use to further boost their accuracy in diagnosing mental disorders. On a good day, I enjoy working on data science project to understand the intricacy and dynamic between civilization, humanity, and behaviors. <br/>
@@ -7,7 +7,8 @@ I am a scientist who is fascinating with data science concepts, research methodo
 That's a brief introduction about me. I would like to hear yours too. Let's connect!!!
 
 ## WORK EXPERIENCE
-- Project Manager, _Intervent Clinical Research Center, FL (2023 - current)_ 
+- Senior Research Associate, _Broward College Institutional Research Center, FL (2024 - current)_
+- Project Manager, _Intervent Clinical Research Center, FL (2023 - 2024)_ 
 - Research Assistant, _Nova Southeastern University, FL (2021 - 2023)_ 
 - Recovery Specialist, _South Florida State Hospital, FL (2018 - 2021)_
 - Senior Behavioral Health Nurse Assistant, _UC San Diego Medical Center_, CA (2013 - 2014)
