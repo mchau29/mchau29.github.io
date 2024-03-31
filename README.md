@@ -1,4 +1,4 @@
-# Senior Research Associate, Aspiring Data Scientist
+# Senior Research Associate
 #### Technical Skills: Python,SQL, R
 
 ## ABOUT ME
