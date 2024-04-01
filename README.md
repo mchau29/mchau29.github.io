@@ -2,7 +2,9 @@
 #### Technical Skills: Python,SQL, R
 
 ## ABOUT ME
-I am a scientist who is fascinating with data science concepts, research methodology, and behavioral health. It is my goal to develop an AI physicians can use to further boost their accuracy in diagnosing mental disorders. On a good day, I enjoy working on data science project to understand the intricacy and dynamic between civilization, humanity, and behaviors. <br/>
+I am currently a Senior Research Associate at Broward College. In my professional career, I had clinical experience in behavioral health, severe mental illness, and substance abuse. I was involved in two human performance research studies and several clinical trials sponsored by pharmaceutical companies. For my master's thesis, I explored the role of Melatonin supplements on mood change among people with subthreshold insomnia. <br/>
+
+Besides my interest in research methodology, hypothesis testing, and statistical modeling, I am fascinated with Machine Learning, Deep Learning, and Artificial Intelligence (AI) development. Currently, I am interested in the prevalence of overdiagnosis and overprescription of psychiatric medications in Mental Health, especially among individuals with ADHD and/or insomnia. It is my goal to develop an algorithm to assist physicians in making diagnoses with higher accuracy and precision. <br/>
 
 That's a brief introduction about me. I would like to hear yours too. Let's connect!!!
 
