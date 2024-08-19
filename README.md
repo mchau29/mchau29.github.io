@@ -1,15 +1,19 @@
-# Project Manager, Aspiring Data Scientist
-#### Technical Skills: Python, SQL, R
+# Senior Research Associate
+#### Technical Skills: Python,SQL, R
 
 ## ABOUT ME
-I like data. </br>
-I am experienced in research methodology, healthcare, and data science. I enjoy working on personal data science project to understand the intricacy and dynamics of humanity. Fascinating with the field of Clinical Psychology, my goal is to write an algorithm to assist physicians and improve their accuracy in diagnosing mental disorders. </br>
-Beside my professional identity, I am a gamer, an anime nerd, and a cat dad. 
+I am currently a Senior Research Associate at Broward College. In my professional career, I had clinical experience in behavioral health, severe mental illness, and substance abuse. I was involved in two human performance research studies and several clinical trials sponsored by pharmaceutical companies. For my master's thesis, I explored the role of Melatonin supplements on mood change among people with subthreshold insomnia. <br/>
+
+Besides my interest in research methodology, hypothesis testing, and statistical modeling, I am fascinated with Machine Learning, Deep Learning, and Artificial Intelligence (AI) development. Currently, I am interested in the prevalence of overdiagnosis and overprescription of psychiatric medications in Mental Health, especially among individuals with ADHD and/or insomnia. It is my goal to develop an algorithm to assist physicians in making diagnoses with higher accuracy and precision. <br/>
+
+That's a brief introduction about me. I would like to hear yours too. Let's connect!!!
 
 ## WORK EXPERIENCE
-- Project Manager, _Intervent Clinical Research Center, FL (2023 - current)_ 
+- Senior Research Associate, _Broward College Institutional Research Center, FL (2024 - current)_
+- Project Manager, _Intervent Clinical Research Center, FL (2023 - 2024)_ 
 - Research Assistant, _Nova Southeastern University, FL (2021 - 2023)_ 
 - Recovery Specialist, _South Florida State Hospital, FL (2018 - 2021)_
+- Senior Behavioral Health Nurse Assistant, _UC San Diego Medical Center_, CA (2013 - 2014)
   
 ## EDUCATION       		
 - M.S. in Experimental Psychology, _Nova Southeastern University, FL (2023)_ 
@@ -110,6 +114,6 @@ Using data from 2012 - 2016, several linear regression analysis were conducted t
 2. Melatonin spray (.5mg) on nighttime awakening and sleep quality evaluation, _Nature Bounty_ 
 
 
-##### PS: *This is my cat. Her name is Noodle. She takes after me, isn't she?*
+##### Fun Fact. Beside my professional identity, I am a gamer, an optimistic Nihilist, and a cat dad. This is 小麵 (*Xiǎo-Miàn*, Little Noodle). 
 ![xiu min](https://github.com/mchau29/mchau29.github.io/assets/113917229/10067377-ae23-49ee-beda-9958f79d9408)
-##### *I am pleasant to work with, I promise!*
+##### "A future is not given to you. It is something you must take for yourself," Pod042, *Nier Automata.* 
