@@ -9,7 +9,8 @@ Besides my interest in research methodology, hypothesis testing, and statistical
 That's a brief introduction about me. I would like to hear yours too. Let's connect!!!
 
 ## WORK EXPERIENCE
-- Senior Research Associate, _Broward College Institutional Research Center, FL (2024 - current)_
+- Senior Research Associate, _Institutional Research Center, Broward College , FL (2024 - current)_
+- Adjunct Faculty, _Department of Psychology and Neuroscience, Nova Southeastern University, FL (2024 - current)_
 - Project Manager, _Intervent Clinical Research Center, FL (2023 - 2024)_ 
 - Research Assistant, _Nova Southeastern University, FL (2021 - 2023)_ 
 - Recovery Specialist, _South Florida State Hospital, FL (2018 - 2021)_
