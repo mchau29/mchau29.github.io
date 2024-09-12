@@ -1,5 +1,5 @@
 # Senior Research Associate
-#### Technical Skills: Python,SQL, R
+#### Technical Skills: Python,SQL, R, SAS, Power BI
 
 ## ABOUT ME
 Hello! I’m a Senior Research Associate at Broward College and an Adjunct Faculty at Nova Southeastern University, where I teach Quantitative Psychology courses. My expertise lies in research design, quantitative methods, and data science. <br/>
@@ -8,30 +8,27 @@ I am passionate about using statistical techniques to investigate how environmen
 
 When I’m not diving into data, you might find me exploring new cuisines, traveling to new places, or indulging in a good video game. I believe in bringing enthusiasm and a collaborative spirit to every project, making me a valuable team player.
 
-## TEST TABLE
-| Name | Experience | Year|
-|----- |------------|-----|
-| Minh | sdcsd      | 2024|
----------------------------
 
 ## WORK EXPERIENCE
-- Senior Research Associate, _Institutional Research Center, Broward College , FL_  (2024 - current)
-- Adjunct Faculty, _Department of Psychology and Neuroscience, Nova Southeastern University, FL_  (2024 - current)
-- Project Manager, _Intervent Clinical Research Center, FL_  (2023 - 2024) 
-- Research Assistant, _Nova Southeastern University, FL_  (2021 - 2023) 
-- Recovery Specialist, _South Florida State Hospital, FL_  (2018 - 2021)
-- Senior Behavioral Health Nurse Assistant, _UC San Diego Medical Center, CA_  (2013 - 2014)
+- Senior Research Associate| Broward College, FL (_2024 - current_)
+- Adjunct Faculty| Nova Southeastern University, FL (2024 - current_)
+- Project Manager| Intervent Clinical Research Center, FL (_2023 - 2024_)
+- Research Assistant| Nova Southeastern University, FL (_2021 - 2023_)
+- Recovery Specialist| South Florida State Hospital, FL (_2018 - 2021_)
+- Nurse Assistant| UC San Diego Medical Center, CA (_2013 - 2014_)
+
   
 ## EDUCATION       		
-- M.S. in Data Science, _University of West Florida, FL_ (2026) 
-- M.S. in Experimental Psychology, _Nova Southeastern University, FL_ (2023) 
-- B.A. in Psychology, _San Diego State University, CA_ (2018) 
+- M.S. in Data Science| University of West Florida, FL (_2026_)
+- M.S. in Experimental Psychology| Nova Southeastern University, FL (_2023_)
+- B.A. in Psychology| San Diego State University, CA (_2013 - 2018_)
+
 
 ## DATA SCIENCE SPECIALIZATION & PROFESSIONAL CERTIFICATES    	
-- Machine Learning Professional Certificate, _IBM_  (in-progress)
-- Data Science Fundamentals with Python and SQL Specialization, _IBM_  (2023) 
-- HavardX's Data Science Professional Certificate, _edX_  (2023) 
-- Google Data Analytics Specialization, _Google_  (2023) 
+- Data Science Fundamentals with Python and SQL Specialization | IBM (_2023_)
+- Data Science Professional Certificate| HavardX (_2023_)
+- Data Analytics Specialization| Google (_2023_)
+
 
 ## DATA SCIENCE PROJECTS
 ### World Happiness: Multiple Linear Regression Modeling with Python (2024)
