@@ -10,24 +10,24 @@ When I’m not diving into data, you might find me exploring new cuisines, trave
 
 
 ## WORK EXPERIENCE
-- Senior Research Associate| Broward College, FL (_2024 - current_)
-- Adjunct Faculty| Nova Southeastern University, FL (2024 - current_)
-- Project Manager| Intervent Clinical Research Center, FL (_2023 - 2024_)
-- Research Assistant| Nova Southeastern University, FL (_2021 - 2023_)
-- Recovery Specialist| South Florida State Hospital, FL (_2018 - 2021_)
-- Nurse Assistant| UC San Diego Medical Center, CA (_2013 - 2014_)
+- Senior Research Associate | Broward College, FL (_2024 - current_)
+- Adjunct Faculty | Nova Southeastern University, FL (2024 - current_)
+- Project Manager | Intervent Clinical Research Center, FL (_2023 - 2024_)
+- Research Assistant | Nova Southeastern University, FL (_2021 - 2023_)
+- Recovery Specialist | South Florida State Hospital, FL (_2018 - 2021_)
+- Nurse Assistant | UC San Diego Medical Center, CA (_2013 - 2014_)
 
   
 ## EDUCATION       		
-- M.S. in Data Science| University of West Florida, FL (_2026_)
-- M.S. in Experimental Psychology| Nova Southeastern University, FL (_2023_)
-- B.A. in Psychology| San Diego State University, CA (_2013 - 2018_)
+- M.S. in Data Science | University of West Florida, FL (_2026_)
+- M.S. in Experimental Psychology | Nova Southeastern University, FL (_2023_)
+- B.A. in Psychology | San Diego State University, CA (_2013 - 2018_)
 
 
 ## DATA SCIENCE SPECIALIZATION & PROFESSIONAL CERTIFICATES    	
 - Data Science Fundamentals with Python and SQL Specialization | IBM (_2023_)
-- Data Science Professional Certificate| HavardX (_2023_)
-- Data Analytics Specialization| Google (_2023_)
+- Data Science Professional Certificate | HavardX (_2023_)
+- Data Analytics Specialization | Google (_2023_)
 
 
 ## DATA SCIENCE PROJECTS
