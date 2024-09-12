@@ -8,6 +8,11 @@ I am passionate about using statistical techniques to investigate how environmen
 
 When I’m not diving into data, you might find me exploring new cuisines, traveling to new places, or indulging in a good video game. I believe in bringing enthusiasm and a collaborative spirit to every project, making me a valuable team player.
 
+## TEST TABLE
+| Name | Experience | Year|
+|----- |------------|-----|
+| Minh | sdcsd      | 2024|
+
 ## WORK EXPERIENCE
 - Senior Research Associate, _Institutional Research Center, Broward College , FL_  (2024 - current)
 - Adjunct Faculty, _Department of Psychology and Neuroscience, Nova Southeastern University, FL_  (2024 - current)
