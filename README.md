@@ -9,12 +9,12 @@ I am passionate about using statistical techniques to investigate how environmen
 When I’m not diving into data, you might find me exploring new cuisines, traveling to new places, or indulging in a good video game. I believe in bringing enthusiasm and a collaborative spirit to every project, making me a valuable team player.
 
 ## WORK EXPERIENCE
-- Senior Research Associate, _Institutional Research Center, Broward College , FL (2024 - current)_
-- Adjunct Faculty, _Department of Psychology and Neuroscience, Nova Southeastern University, FL (2024 - current)_
-- Project Manager, _Intervent Clinical Research Center, FL (2023 - 2024)_ 
-- Research Assistant, _Nova Southeastern University, FL (2021 - 2023)_ 
-- Recovery Specialist, _South Florida State Hospital, FL (2018 - 2021)_
-- Senior Behavioral Health Nurse Assistant, _UC San Diego Medical Center_, CA (2013 - 2014)
+- Senior Research Associate, _Institutional Research Center, Broward College , FL_  (2024 - current)
+- Adjunct Faculty, _Department of Psychology and Neuroscience, Nova Southeastern University, FL_  (2024 - current)
+- Project Manager, _Intervent Clinical Research Center, FL_  (2023 - 2024) 
+- Research Assistant, _Nova Southeastern University, FL_  (2021 - 2023) 
+- Recovery Specialist, _South Florida State Hospital, FL_  (2018 - 2021)
+- Senior Behavioral Health Nurse Assistant, _UC San Diego Medical Center, CA_  (2013 - 2014)
   
 ## EDUCATION       		
 - M.S. in Data Science, _University of West Florida, FL_ (2026) 
