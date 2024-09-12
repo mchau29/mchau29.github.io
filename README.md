@@ -12,7 +12,7 @@ When I’m not diving into data, you might find me exploring new cuisines, trave
 | Name | Experience | Year|
 |----- |------------|-----|
 | Minh | sdcsd      | 2024|
-|----- |----------- |-----|
+---------------------------
 
 ## WORK EXPERIENCE
 - Senior Research Associate, _Institutional Research Center, Broward College , FL_  (2024 - current)
