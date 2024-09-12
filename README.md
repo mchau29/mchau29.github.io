@@ -1,23 +1,6 @@
 # Senior Research Associate
 #### Technical Skills: Python,SQL, R, SAS, Power BI
 
-## ABOUT ME
-Hello! I’m a Senior Research Associate at Broward College and an Adjunct Faculty at Nova Southeastern University, where I teach Quantitative Psychology courses. My expertise lies in research design, quantitative methods, and data science. <br/>
-
-I am passionate about using statistical techniques to investigate how environmental factors interact with the brain and shape human behavior. My main interests lie in behavioral neuroscience and clinical psychology, with a focus on understanding the relationship between risk factors and the progression of cognitive decline in aging. <br/>
-
-When I’m not diving into data, you might find me exploring new cuisines, traveling to new places, or indulging in a good video game. I believe in bringing enthusiasm and a collaborative spirit to every project, making me a valuable team player.
-
-
-## WORK EXPERIENCE
-- Senior Research Associate, Broward College, FL (_2024 - current_)
-- Adjunct Faculty, Nova Southeastern University, FL (2024 - current_)
-- Project Manager, Intervent Clinical Research Center, FL (_2023 - 2024_)
-- Research Assistant, Nova Southeastern University, FL (_2021 - 2023_)
-- Recovery Specialist, South Florida State Hospital, FL (_2018 - 2021_)
-- Nurse Assistant, UC San Diego Medical Center, CA (_2013 - 2014_)
-
-  
 ## EDUCATION       		
 - M.S. in Data Science, University of West Florida, FL (_2026_)
 - M.S. in Experimental Psychology, Nova Southeastern University, FL (_2023_)
@@ -29,8 +12,13 @@ When I’m not diving into data, you might find me exploring new cuisines, trave
 - Data Science Professional Certificate, HavardX (_2023_)
 - Data Analytics Specialization, Google (_2023_)
 
-
-## DATA SCIENCE PROJECTS
+## WORK EXPERIENCE
+- Senior Research Associate, Broward College, FL (_2024 - current_)
+- Adjunct Faculty, Nova Southeastern University, FL (2024 - current_)
+- Project Manager, Intervent Clinical Research Center, FL (_2023 - 2024_)
+- Research Assistant, Nova Southeastern University, FL (_2021 - 2023_)
+  
+## PROJECTS
 ### World Happiness: Multiple Linear Regression Modeling with Python (2024)
 This capstone project for the Data Science Fundamentals with Python and SQL Specialization (IBM) uses data from the International Database (IDB) by the U.S. Census Bureau and the World Happiness Report (WHR) Dataset. <br />
 
