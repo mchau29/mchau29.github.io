@@ -25,9 +25,9 @@ When I’m not diving into data, you might find me exploring new cuisines, trave
 
 
 ## DATA SCIENCE SPECIALIZATION & PROFESSIONAL CERTIFICATES    	
-Data Science Fundamentals with Python and SQL Specialization, IBM (_2023_)
-Data Science Professional Certificate, HavardX (_2023_)
-Data Analytics Specialization, Google (_2023_)
+- Data Science Fundamentals with Python and SQL Specialization, IBM (_2023_)
+- Data Science Professional Certificate, HavardX (_2023_)
+- Data Analytics Specialization, Google (_2023_)
 
 
 ## DATA SCIENCE PROJECTS
