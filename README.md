@@ -2,11 +2,11 @@
 #### Technical Skills: Python,SQL, R
 
 ## ABOUT ME
-I am currently a Senior Research Associate at Broward College. In my professional career, I had clinical experience in behavioral health, severe mental illness, and substance abuse. I was involved in two human performance research studies and several clinical trials sponsored by pharmaceutical companies. For my master's thesis, I explored the role of Melatonin supplements on mood change among people with subthreshold insomnia. <br/>
+Hello! I’m a Senior Research Associate at Broward College and an Adjunct Faculty at Nova Southeastern University, where I teach Quantitative Psychology courses. My expertise lies in research design, quantitative methods, and data science. <br/>
 
-Besides my interest in research methodology, hypothesis testing, and statistical modeling, I am fascinated with Machine Learning, Deep Learning, and Artificial Intelligence (AI) development. Currently, I am interested in the prevalence of overdiagnosis and overprescription of psychiatric medications in Mental Health, especially among individuals with ADHD and/or insomnia. It is my goal to develop an algorithm to assist physicians in making diagnoses with higher accuracy and precision. <br/>
+I am passionate about using statistical techniques to investigate how environmental factors interact with the brain and shape human behavior. My main interests lie in behavioral neuroscience and clinical psychology, with a focus on understanding the relationship between risk factors and the progression of cognitive decline in aging. <br/>
 
-That's a brief introduction about me. I would like to hear yours too. Let's connect!!!
+When I’m not diving into data, you might find me exploring new cuisines, traveling to new places, or indulging in a good video game. I believe in bringing enthusiasm and a collaborative spirit to every project, making me a valuable team player.
 
 ## WORK EXPERIENCE
 - Senior Research Associate, _Institutional Research Center, Broward College , FL (2024 - current)_
@@ -28,13 +28,13 @@ That's a brief introduction about me. I would like to hear yours too. Let's conn
 
 ## DATA SCIENCE PROJECTS
 ### World Happiness: Multiple Linear Regression Modeling with Python (2024)
-This is a capstone project for the Data Science Fundamentals with Python and SQL Specialization (IMB). Data was collected from the WInternational Database (IDB) by United States Census Bureau and World Happiness Report Dataset by the World Happiness Report (WHR) organization. 
+This capstone project for the Data Science Fundamentals with Python and SQL Specialization (IBM) uses data from the International Database (IDB) by the U.S. Census Bureau and the World Happiness Report (WHR) Dataset. <br />
 
-What makes a happy country? Is it the country’s economy, politics, or its people? Using data from the International Database (IDB) by the United States Census Bureau and the World Happiness Report Dataset by the World Happiness Report (WHR) organization, I constructed a Multiple Linear Regression model using 13 predictors to predict happiness. My model explains 84.86% of the variance in happiness, F(13,129) = 62.222, p < .05, r-squared = .849. <br />
+What makes a happy country? Is it the economy, politics, or its people? Using data from IDB and WHR, I built a Multiple Linear Regression model with 13 predictors to predict happiness, explaining 84.86% of the variance (F(13,129) = 62.222, p < .05, r-squared = .849). <br />
 
-According to this model, people are likely to report feeling happier when (1) their country is doing well financially and (2) their health, freedom, and social support are well-taken care of. Surprisingly, a person's perception of corruption in their country does not have an effect on their happiness (i.e., they may perceive a lot of corruption happening in their country, they would not let that determine how happy they are). In countries where people reported feeling happier, the country population tend to be younger; however, their annual death rate seems to be higher, comparing to countries where people reported feeling not as happy. <br />
+The model suggests people feel happier when their country is financially stable, and their health, freedom, and social support are well-taken care of. Interestingly, perceived corruption doesn’t affect happiness. Happier countries tend to have younger populations but higher annual death rates.<br />
 
-Due to a lack of experimental control, causation cannot be inferred yet. It is recommended for future studies to explore the relationships between these variables so policies can be made to further increase people's happiness. <br /> 
+Due to a lack of experimental control, causation can’t be inferred. Future studies should explore these relationships further to inform policies that enhance happiness.
 
 ##### **Figure 1**. A pairplot illustrating the correlation between happiness & 13 other predictors.
 ![image](https://github.com/mchau29/mchau29.github.io/assets/113917229/916046e7-ad4f-4255-8d62-6e89d587c2ef) 
@@ -62,13 +62,11 @@ People who reported a decrease in negative moods (i.e., confusion, depression, f
 **TAGS.** R-programming language, Between-Subject T-Test, Melatonin, Mood, Sleep Quality 
 
 ### Spaceship Titanic (2023)
-This is a capstone project for the Data Science Professional Certificate (HavardX). This dataset was originated from [Kaggle](https://www.kaggle.com/competitions/spaceship-titanic/overview), an online community for Data Science & Machine Learning Enthusiasts. 
+This capstone project for the Data Science Professional Certificate (HarvardX) uses a dataset from [Kaggle](https://www.kaggle.com/competitions/spaceship-titanic/overview).
 
-It is the year of 2912. The Spaceship Titanic, an interstellar vessel carried 13,000 passengers on board, set out to transport emigrants from our Solar System to three newly habitable exo-planets. While rounding Alpha Centauri en route to its first destination - 55 Cancri E -, the spaceship collided with a spacetime anomaly that transported almost half of the passengers to an alternate dimension.
+In 2912, the Spaceship Titanic, carrying 13,000 passengers, collided with a spacetime anomaly, transporting nearly half to an alternate dimension. Using the Random Forest method, I predicted passenger transport with 75% accuracy, 80% sensitivity, and 70% specificity based on factors like age, party size, luxury, home planet, destination, VR services, cabin deck, and cryo-sleep status.
 
-Using the Random Forest method, the following predictors were used to predict whether a passenger was transported to an alternate dimension: Age, Party Size, Luxury, Home Planet, Destination, using VR services, the Cabin deck and its position on the spaceship, and Cryo-Sleep status.
-
-This algorithm yields a .75 accuracy, with .80 Sensitivity and .70 Specificity. Now let’s hope the Rescue Team can save our passengers. For those passengers that are missed by my algorithm, may the alternate dimension treat them well.
+Let’s hope the Rescue Team can save our passengers. For those missed by my algorithm, may the alternate dimension treat them well.
 
 ![image](https://github.com/mchau29/mchau29.github.io/assets/113917229/a92b0828-72ed-4e0d-81fe-17b2fb4b00b3)  <br/>
 [RMarkDown Notebook](https://github.com/mchau29/R---ML---Titanic-Spaceship/blob/main/ML%20-%20prediction%201.Rmd) | 
@@ -115,6 +113,6 @@ Using data from 2012 - 2016, several linear regression analysis were conducted t
 2. Melatonin spray (.5mg) on nighttime awakening and sleep quality evaluation, _Nature Bounty_ 
 
 
-##### Fun Fact. Beside my professional identity, I am a gamer, an optimistic Nihilist, and a cat dad. This is 小麵 (*Xiǎo-Miàn*, Little Noodle). 
+##### Beyond my professional identity, I’m a gamer, an optimistic nihilist, and a proud cat dad. Meet 小麵 (Xiǎo-Miàn, Little Noodle)!
 ![xiu min](https://github.com/mchau29/mchau29.github.io/assets/113917229/10067377-ae23-49ee-beda-9958f79d9408)
 ##### "A future is not given to you. It is something you must take for yourself," Pod042, *Nier Automata.* 
