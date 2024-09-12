@@ -17,14 +17,15 @@ When I’m not diving into data, you might find me exploring new cuisines, trave
 - Senior Behavioral Health Nurse Assistant, _UC San Diego Medical Center_, CA (2013 - 2014)
   
 ## EDUCATION       		
-- M.S. in Experimental Psychology, _Nova Southeastern University, FL (2023)_ 
-- B.A. in Psychology, _San Diego State University, CA (2018)_ 
+- M.S. in Data Science, _University of West Florida, FL_ (2026) 
+- M.S. in Experimental Psychology, _Nova Southeastern University, FL_ (2023) 
+- B.A. in Psychology, _San Diego State University, CA_ (2018) 
 
 ## DATA SCIENCE SPECIALIZATION & PROFESSIONAL CERTIFICATES    	
-- Machine Learning Professional Certificate, _IBM (in-progress)_ 
-- Data Science Fundamentals with Python and SQL Specialization, _IBM (2023)_ 
-- HavardX's Data Science Professional Certificate, _edX (2023)_ 
-- Google Data Analytics Specialization, _Google (2023)_ 
+- Machine Learning Professional Certificate, _IBM_  (in-progress)
+- Data Science Fundamentals with Python and SQL Specialization, _IBM_  (2023) 
+- HavardX's Data Science Professional Certificate, _edX_  (2023) 
+- Google Data Analytics Specialization, _Google_  (2023) 
 
 ## DATA SCIENCE PROJECTS
 ### World Happiness: Multiple Linear Regression Modeling with Python (2024)
