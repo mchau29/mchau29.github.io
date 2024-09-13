@@ -20,6 +20,7 @@
   
 ## PROJECTS
 ### World Happiness: Multiple Linear Regression Modeling with Python (2024)
+---------------------------------------------------------------------------
 This capstone project for the Data Science Fundamentals with Python and SQL Specialization (IBM) uses data from the International Database (IDB) by the U.S. Census Bureau and the World Happiness Report (WHR) Dataset. <br />
 
 What makes a happy country? Is it the economy, politics, or its people? Using data from IDB and WHR, I built a Multiple Linear Regression model with 13 predictors to predict happiness, explaining 84.86% of the variance (F(13,129) = 62.222, p < .05, r-squared = .849). <br />
