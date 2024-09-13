@@ -38,7 +38,7 @@ Due to a lack of experimental control, causation can’t be inferred. Future stu
 **TAGS.** Python, Data Analysis, Multiple Linear Regression Modeling. 
 
 ### Master Thesis: Melatonin on Mood, Sleep Impairments Matter (2023)
-
+---------------------------------------------------------------------------
 As part of a larger double-blinded, crossover study design, 46 participants (Female = 27, Mean age = 29.98 ± 12.72 years) reported their sleep quality, as measured by Insomnia Severity Index (ISI), Epworth Sleepiness Scale (ESS), Restorative Sleep Questionnaire (RSQ), and Pittsburg Sleep Quality Index (PSQI), and mood change, measured by Profile of Mood States (POMS) after two weeks of using MLT (.5mg/spray, as needed) vs. placebo. This study aimed to determine if the effect of MLT on mood can be predicted by sleep complaints (SC) when not on MLT in people with Subthreshold Insomnia (SI). <br/>
 
 Several independent sample t-tests were conducted to test for differences in SC scores under placebo between participants who reported an increased mood after using MLT and those who reported a decreased mood after using MLT across seven POMS parameters. <br/>
@@ -55,6 +55,7 @@ People who reported a decrease in negative moods (i.e., confusion, depression, f
 **TAGS.** R-programming language, Between-Subject T-Test, Melatonin, Mood, Sleep Quality 
 
 ### Spaceship Titanic (2023)
+---------------------------------------------------------------------------
 This capstone project for the Data Science Professional Certificate (HarvardX) uses a dataset from [Kaggle](https://www.kaggle.com/competitions/spaceship-titanic/overview).
 
 In 2912, the Spaceship Titanic, carrying 13,000 passengers, collided with a spacetime anomaly, transporting nearly half to an alternate dimension. Using the Random Forest method, I predicted passenger transport with 75% accuracy, 80% sensitivity, and 70% specificity based on factors like age, party size, luxury, home planet, destination, VR services, cabin deck, and cryo-sleep status.
@@ -66,6 +67,7 @@ Let’s hope the Rescue Team can save our passengers. For those missed by my alg
 [Rendered HTML Page](https://htmlpreview.github.io/?https://github.com/mchau29/R---ML---Titanic-Spaceship/blob/main/ML---prediction-1.html)
 
 ### Revenue Predictions for the US Movie Industry (2023)
+---------------------------------------------------------------------------
 This is a capstone project for the Data Analytics Specialization (Google). This dataset was queried from _The Bikeshare Dataset from Google BigQuery Sandbox_.
 
 Using data from 2012 - 2016, several linear regression analysis were conducted to predict revenue based on the budget for each released movies. Results from the analysis show that (1) Action movies generated the most profits and revenues. With lots of budgets, it is the most popular genre and (2) It is best to have a movie with a budget around $25 - $50 millions, or $100 millions or more, for those movies to generate profits. 
