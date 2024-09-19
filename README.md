@@ -2,21 +2,21 @@
 #### Technical Skills: Python,SQL, R, SAS, Power BI
 
 ## EDUCATION       		
-- M.S. in Data Science, University of West Florida, FL (_2026_)
-- M.S. in Experimental Psychology, Nova Southeastern University, FL (_2023_)
-- B.A. in Psychology, San Diego State University, CA (_2013 - 2018_)
+- _M.S. in Data Science_, University of West Florida, FL (2026)
+- _M.S. in Experimental Psychology_, Nova Southeastern University, FL (2023)
+- _B.A. in Psychology_, San Diego State University, CA (2018)
 
 
 ## DATA SCIENCE SPECIALIZATION & PROFESSIONAL CERTIFICATES    	
-- Data Science Fundamentals with Python and SQL Specialization, IBM (_2023_)
-- Data Science Professional Certificate, HavardX (_2023_)
-- Data Analytics Specialization, Google (_2023_)
+- _Data Science Fundamentals with Python and SQL Specialization_, IBM (2023)
+- _Data Science Professional Certificate_, HavardX (2023)
+- _Data Analytics Specialization_, Google (2023)
 
 ## WORK EXPERIENCE
-- Senior Research Associate, Broward College, FL (_2024 - current_)
-- Adjunct Faculty, Nova Southeastern University, FL (_2024 - current_)
-- Project Manager, Intervent Clinical Research Center, FL (_2023 - 2024_)
-- Research Assistant, Nova Southeastern University, FL (_2021 - 2023_)
+- _Senior Research Associate_, Broward College, FL (2024 - current)
+- _Adjunct Faculty_, Nova Southeastern University, FL (2024 - current)
+- _Project Manager_, Intervent Clinical Research Center, FL (2023 - 2024)
+- _Research Assistant_, Nova Southeastern University, FL (2021 - 2023)
   
 ## PROJECTS
 ### World Happiness: Multiple Linear Regression Modeling with Python (2024)
