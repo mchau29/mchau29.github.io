@@ -14,7 +14,7 @@
 
 ## WORK EXPERIENCE
 - Senior Research Associate, Broward College, FL (_2024 - current_)
-- Adjunct Faculty, Nova Southeastern University, FL (2024 - current_)
+- Adjunct Faculty, Nova Southeastern University, FL (_2024 - current_)
 - Project Manager, Intervent Clinical Research Center, FL (_2023 - 2024_)
 - Research Assistant, Nova Southeastern University, FL (_2021 - 2023_)
   
