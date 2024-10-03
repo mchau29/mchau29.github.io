@@ -2,24 +2,25 @@
 #### Technical Skills: Python,SQL, R, SAS, Power BI
 
 ## EDUCATION       		
-- M.S. in Data Science, University of West Florida, FL (_2026_)
-- M.S. in Experimental Psychology, Nova Southeastern University, FL (_2023_)
-- B.A. in Psychology, San Diego State University, CA (_2013 - 2018_)
+- _M.S. in Data Science_, University of West Florida, FL (2026)
+- _M.S. in Experimental Psychology_, Nova Southeastern University, FL (2023)
+- _B.A. in Psychology_, San Diego State University, CA (2018)
 
 
 ## DATA SCIENCE SPECIALIZATION & PROFESSIONAL CERTIFICATES    	
-- Data Science Fundamentals with Python and SQL Specialization, IBM (_2023_)
-- Data Science Professional Certificate, HavardX (_2023_)
-- Data Analytics Specialization, Google (_2023_)
+- _Data Science Fundamentals with Python and SQL Specialization_, IBM (2023)
+- _Data Science Professional Certificate_, HavardX (2023)
+- _Data Analytics Specialization_, Google (2023)
 
 ## WORK EXPERIENCE
-- Senior Research Associate, Broward College, FL (_2024 - current_)
-- Adjunct Faculty, Nova Southeastern University, FL (2024 - current_)
-- Project Manager, Intervent Clinical Research Center, FL (_2023 - 2024_)
-- Research Assistant, Nova Southeastern University, FL (_2021 - 2023_)
+- _Senior Research Associate_, Broward College, FL (2024 - current)
+- _Adjunct Faculty_, Nova Southeastern University, FL (2024 - current)
+- _Project Manager_, Intervent Clinical Research Center, FL (2023 - 2024)
+- _Research Assistant_, Nova Southeastern University, FL (2021 - 2023)
   
 ## PROJECTS
 ### World Happiness: Multiple Linear Regression Modeling with Python (2024)
+---------------------------------------------------------------------------
 This capstone project for the Data Science Fundamentals with Python and SQL Specialization (IBM) uses data from the International Database (IDB) by the U.S. Census Bureau and the World Happiness Report (WHR) Dataset. <br />
 
 What makes a happy country? Is it the economy, politics, or its people? Using data from IDB and WHR, I built a Multiple Linear Regression model with 13 predictors to predict happiness, explaining 84.86% of the variance (F(13,129) = 62.222, p < .05, r-squared = .849). <br />
@@ -37,7 +38,7 @@ Due to a lack of experimental control, causation can’t be inferred. Future stu
 **TAGS.** Python, Data Analysis, Multiple Linear Regression Modeling. 
 
 ### Master Thesis: Melatonin on Mood, Sleep Impairments Matter (2023)
-
+---------------------------------------------------------------------------
 As part of a larger double-blinded, crossover study design, 46 participants (Female = 27, Mean age = 29.98 ± 12.72 years) reported their sleep quality, as measured by Insomnia Severity Index (ISI), Epworth Sleepiness Scale (ESS), Restorative Sleep Questionnaire (RSQ), and Pittsburg Sleep Quality Index (PSQI), and mood change, measured by Profile of Mood States (POMS) after two weeks of using MLT (.5mg/spray, as needed) vs. placebo. This study aimed to determine if the effect of MLT on mood can be predicted by sleep complaints (SC) when not on MLT in people with Subthreshold Insomnia (SI). <br/>
 
 Several independent sample t-tests were conducted to test for differences in SC scores under placebo between participants who reported an increased mood after using MLT and those who reported a decreased mood after using MLT across seven POMS parameters. <br/>
@@ -54,6 +55,7 @@ People who reported a decrease in negative moods (i.e., confusion, depression, f
 **TAGS.** R-programming language, Between-Subject T-Test, Melatonin, Mood, Sleep Quality 
 
 ### Spaceship Titanic (2023)
+---------------------------------------------------------------------------
 This capstone project for the Data Science Professional Certificate (HarvardX) uses a dataset from [Kaggle](https://www.kaggle.com/competitions/spaceship-titanic/overview).
 
 In 2912, the Spaceship Titanic, carrying 13,000 passengers, collided with a spacetime anomaly, transporting nearly half to an alternate dimension. Using the Random Forest method, I predicted passenger transport with 75% accuracy, 80% sensitivity, and 70% specificity based on factors like age, party size, luxury, home planet, destination, VR services, cabin deck, and cryo-sleep status.
@@ -65,6 +67,7 @@ Let’s hope the Rescue Team can save our passengers. For those missed by my alg
 [Rendered HTML Page](https://htmlpreview.github.io/?https://github.com/mchau29/R---ML---Titanic-Spaceship/blob/main/ML---prediction-1.html)
 
 ### Revenue Predictions for the US Movie Industry (2023)
+---------------------------------------------------------------------------
 This is a capstone project for the Data Analytics Specialization (Google). This dataset was queried from _The Bikeshare Dataset from Google BigQuery Sandbox_.
 
 Using data from 2012 - 2016, several linear regression analysis were conducted to predict revenue based on the budget for each released movies. Results from the analysis show that (1) Action movies generated the most profits and revenues. With lots of budgets, it is the most popular genre and (2) It is best to have a movie with a budget around $25 - $50 millions, or $100 millions or more, for those movies to generate profits. 
